@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 2494811451
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: f592837fa29b0acf9255a2f513453151
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f1a80e352302eab9b27e215123988351
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: f2b93789829f44559b2a734e557e927d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3f34fbd24fca2411a8eb435431245fcf, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 196
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/GooglePlayPlugins/com.google.play.assetdelivery/Samples/AssetDeliveryDemo/Scenes/GalaxyExample.unity
+Dependencies:
+- /Users/simonbeech/Documents/GitHub/Homotherium/AssetBundles/AssetDeliveryDemo/gamepad
